@@ -1,4 +1,4 @@
-# SimpleSearchBox-CSS
+# SimpleSearchBar-CSS
 
 Barra de pesquisa que mostra conforme itens listados | Search bar that shows as listed items
 
