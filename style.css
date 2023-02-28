@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #201b2c;
+}
+
+.pesquisa {
+    width: 400px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    margin: 200px auto;
+}
+
+#texto {
+    width: 350px;
+    height: 40px;
+    float: left;
+    font-size: 20px;
+}
+
+img {
+    position: absolute;
+    width: 40px;
+    margin-left: 5px;
+    cursor: pointer;
+}
